@@ -12,7 +12,7 @@ def rdm(lst):
 
 def amount_and_element():
     lst = []
-    amt = int(input("Amount of random element : "))
+    amt = int(input("YourChoice : "))
     for i in range(0, amt):
         ele = (input())
 
